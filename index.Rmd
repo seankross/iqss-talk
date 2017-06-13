@@ -1,0 +1,121 @@
+---
+title: "Re-thinking the Value Added by a Data Repository"
+subtitle: "Dataverse Community Meeting"
+author: "Sean Kross"
+date: "2017-06-16"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: center, middle
+
+# Sharing Data Used to be the Problem
+
+![](img/NASAComputerRoom7090.NARA.jpg)
+
+---
+
+# Thankfully There was a Solution!
+
+![](img/dataverse.png)
+
+---
+
+# Thankfully There was a Solution?
+
+![](img/data-repos.png)
+
+---
+
+# How to Prevent Researcher Fatigue?
+
+.pull-left[
+The competition:
+
+- Plain text is always compatible.
+- Plain text is easy to mix and match.
+- Plain text is easy to maintain.
+- Plain text is lightweight.
+- Plain text is always forward compatible.
+
+([Source](https://simplystatistics.org/2017/06/13/the-future-of-education-is-plain-text/))
+
+- There's no sign-up or registration.
+]
+
+.pull-right[
+![](img/jeff.jpg)
+
+**Make everything plain text!**
+]
+
+---
+
+# What can we Provide that Plain Text Can't?
+
+--
+
+# We Have the Tools of **Open Science** !
+
+![](img/open-sci.png)
+
+---
+
+# Combined with Recommender Systems
+
+![](img/amazon.png)
+
+--
+
+# (Meta)Data Products for Open Science
+
+---
+
+# Case Study: Papr
+
+.pull-left[
+![](img/lucy.png)
+Lucy D'Agostino McGowan
+
+[@LucyStats](https://twitter.com/LucyStats)
+
+
+]
+
+.pull-right[
+![](img/nick.jpg)
+Nick Strayer
+
+[@NicholasStrayer](https://twitter.com/NicholasStrayer)
+
+]
+
+---
+
+![](img/papr.png)
+
+([Source](https://simplystatistics.org/2017/06/06/papr-rate-papers-on-biorxiv-in-a-single-swipe-and-help-science/))
+
+---
+
+![](img/papr-similar.png)
+
+([Source](https://simplystatistics.org/2017/06/06/papr-rate-papers-on-biorxiv-in-a-single-swipe-and-help-science/))
+
+---
+
+# Researcher Fatigue => Puppy Fatigue
+
+<iframe src="https://giphy.com/embed/R8OuxCDlVc9PO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/puppy-R8OuxCDlVc9PO"></a></p>
+
+---
+
+# Thank You!
+
+Link to this talk: [seankross.com/iqss-talk](http://seankross.com/iqss-talk)
+
+Find me on Twitter: [@seankross](https://twitter.com/seankross)
