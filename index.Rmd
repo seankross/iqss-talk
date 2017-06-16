@@ -120,4 +120,6 @@ Link to this talk: [seankross.com/iqss-talk](http://seankross.com/iqss-talk)
 
 Code for this talk: [github.com/seankross/iqss-talk](https://github.com/seankross/iqss-talk)
 
+Try out Papr: [jhubiostatistics.shinyapps.io/papr](https://jhubiostatistics.shinyapps.io/papr/)
+
 Find me on Twitter: [@seankross](https://twitter.com/seankross)
